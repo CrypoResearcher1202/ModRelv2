@@ -1,0 +1,35 @@
+Read me file for Training 2:
+
+c_pd: content probability distribution, in this case probability distribution of fish image n01443537_130, in csv and xlsx format.
+
+LC_CNN1_DS_7:Learning Curves produced out of training and validation of CNN1 model with DS_7 dataset.
+
+LC_CNN2_NR_8_DS:Learning Curves produced out of training and validation of CNN2 model with NR_8_DS dataset.
+
+LC_CNN3_NR_9_DS:Learning Curves produced out of training and validation of CNN3 model with NR_9_DS dataset.
+
+LC_CNN4_NR_10_DS:Learning Curves produced out of training and validation of CNN4 model with NR_10_DS dataset.
+
+LC_ResNet18RandomWeight:Learning Curves produced out of training and validation of Hugging face's ResNet18 model (random weighted) with NR_2_DS dataset.
+
+LC_ResNet50RandomWeight:Learning Curves produced out of training and validation of Hugging face's ResNet50 model (random weighted) with NR_4_DS dataset.
+
+LC_VITRandomWeight:Learning Curves produced out of training and validation of Hugging face's VIT model (random weighted) with NR_6_DS dataset.
+
+
+Model_Parametersv6_2:  Feature Parameters of all the model in bar graph
+
+ModelScoreR_i_rel_scorev7: ModRel scores for each model along with other parameters in bar graph.
+
+ModRel_AUPRG_scv3: ModRel ranking comparison with AUPRG ranking comparison.
+
+n01443537_130 : Considered Suspecting image.
+
+n01443537_130pd : Probability of Suspecting image in RGB scatter plot.
+
+ROC_XXXX: The obtained PRC Curve of all the model with respective validation dataset.
+
+Reviewerdatav6: Data of all model and calculated results in csv and xlsx format.
+
+ReviewerdataRankingv7: Ranking comparison of ModRel and AUPRG.
+
