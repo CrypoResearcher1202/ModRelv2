@@ -1,6 +1,6 @@
 Read me file for Training 1:
 
-c_pd: content probability distribution, in this case probability distribution of fish image n01443537_130, in csv and xlsx format.
+c_pd: content spatial structural and color profile probability distribution, in this case probability distribution of fish image n01443537_130, in csv and xlsx format.
 
 LC_CNN1_DS_1:Learning Curves produced out of training and validation of CNN1 model with NR_1_DS dataset.
 
@@ -17,17 +17,17 @@ LC_ResNet50RandomWeight:Learning Curves produced out of training and validation 
 LC_VITRandomWeight:Learning Curves produced out of training and validation of Hugging face's VIT model (random weighted) with NR_1_DS dataset.
 
 
-Model_Parametersv6_3: Table VII parameters in bar graph
+Training_1_Model_Parametersv6_4: Table III parameters in bar graph
 
-ModelScoreR_i_rel_scorev7: ModRel scores for each model along with other parameters in bar graph.
+Training_1_ModelScoreR_i_rel_scorev8: ModRel scores for each model along with other parameters in bar graph.
 
 ModRel_AUROC_scv2: ModRel ranking comparison with AUROC ranking comparison.
 
 n01443537_130 : Considered Suspecting image.
 
-n01443537_130pd : Probability of Suspecting image in RGB scatter plot.
+n01443537_130_featuresv3cum_hog_spatial : Spatial Structural Color profile Probability of Suspecting image.
 
-Reviewerdatav6: Data of all model and calculated results in csv and xlsx format.
+Training_1_Reviewerdatav8: Data of all model and calculated results in csv and xlsx format.
 
 ReviewerdataRankingv7: Ranking comparison of ModRel and AUROC.
 

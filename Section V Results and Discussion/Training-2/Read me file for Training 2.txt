@@ -1,6 +1,6 @@
 Read me file for Training 2:
 
-c_pd: content probability distribution, in this case probability distribution of fish image n01443537_130, in csv and xlsx format.
+c_pd: content spatial structural color profile probability distribution, in this case probability distribution of fish image n01443537_130, in csv and xlsx format.
 
 LC_CNN1_DS_7:Learning Curves produced out of training and validation of CNN1 model with DS_7 dataset.
 
@@ -29,7 +29,8 @@ n01443537_130pd : Probability of Suspecting image in RGB scatter plot.
 
 ROC_XXXX: The obtained PRC Curve of all the model with respective validation dataset.
 
-Reviewerdatav6: Data of all model and calculated results in csv and xlsx format.
+Training_2_Reviewerdatav7: Data of all model and calculated results in xlsx format.
 
 ReviewerdataRankingv7: Ranking comparison of ModRel and AUPRG.
 
+XXX_NR_Y_DS_cum_featurev1_cum_hod_spatial: A spatial, structural, color profile feature vector of NR_Y dataset.
